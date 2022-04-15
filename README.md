@@ -9,7 +9,7 @@ React+Express 기반 투표 및 아이템 창출, 투표 현황 확인 서비스
 프로젝트 계획 및 설계 : 2021년 4월 07일 ~ 2021년 4월 16일
 개발 : 4월 17일 ~ 4월 22일
 
-* 개발 플랫폼 : React, MongoDB, Mongoose [ Nginx, Docker, Rockey OS *변경될 수 있음 ] 
+* 개발 플랫폼 : MongoDB, Express.js, React.js, Node.js, Mongoose [ Nginx, Docker, Rockey OS *변경될 수 있음 ] 
  
 * library : 추후 서술
   
