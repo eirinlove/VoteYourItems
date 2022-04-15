@@ -1,4 +1,4 @@
-# Column Write Support Servcie
+# VoteYourItems
 
 React+Express 기반 투표 및 아이템 창출, 투표 현황 확인 서비스
 
