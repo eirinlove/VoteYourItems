@@ -20,6 +20,7 @@ app.set('views', 'public/views'); // view 엔진의 기본 템플릿을 public/v
 
 
 app.use( '/', express.static(path.join(__dirname, 'public')));
+//app.use( '/', express.static('public'));
 
 app.use ( '/re', express.static( path.join(__dirname, 'react-project/build'))); // 리액트 전환
 
