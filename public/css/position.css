@@ -13,7 +13,7 @@ background-color: red;
 
 }
 
-.mainFrame_set{
+.mainFrame{
 
 
     margin: 100px;
@@ -22,7 +22,7 @@ background-color: red;
 
 
 
-.mainFrame_1{
+.mainFrame_recen{
     width: 300px;
     height: 300px;
     display:inline-block;
@@ -30,7 +30,7 @@ background-color: red;
    
 }
 
-.mainFrame_2{
+.mainFrame_pop{
 
     width: 300px;
     height: 300px;
