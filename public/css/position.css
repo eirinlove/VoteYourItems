@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(246, 246, 246);
+}
+
+.article_area{
+
+margin-left : 35px;
+margin-top : 35px;
+width: 850px;
+height : auto;
+background-color: red;
+
+
+}
+
+.mainFrame_set{
+
+
+    margin: 100px;
+    display:inline-block;
+}
+
+
+
+.mainFrame_1{
+    width: 300px;
+    height: 300px;
+    display:inline-block;
+    background-color : blue;
+   
+}
+
+.mainFrame_2{
+
+    width: 300px;
+    height: 300px;
+    display:inline-block;
+    background-color: yellow;
+}
